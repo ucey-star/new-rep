@@ -4,7 +4,7 @@
 
 ### Flashcard_app
 `TODO://` An app that displays a flashcard and allows users to ask other users questions
-<img src="app.gif" width=200><br>
+<img src="app" width=200><br> 
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
